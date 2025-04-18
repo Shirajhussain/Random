@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fb84966-6c83-4d24-b8a1-1be42bb637b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basics/Day2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/Day3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/QUESTION.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/Question140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projecj.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,22 +27,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Day1.executor": "Run",
-    "Python.Day2.executor": "Run",
-    "Python.Question.executor": "Run",
-    "Python.day1 (1).executor": "Run",
-    "Python.day1.executor": "Run",
-    "Python.slic.executor": "Run",
-    "Python.slicing.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/shira/Documents/Sample"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Question.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Question140.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.projecj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shira/Documents/Sample&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Day2">
+}</component>
+  <component name="RunManager" selected="Python.projecj">
     <configuration name="Day2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sample" />
       <option name="ENV_FILES" value="" />
@@ -62,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Day3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sample" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/day1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/Day3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="slic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="QUESTION" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sample" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/slic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/QUESTION.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="slicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Question140" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sample" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/slicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/Question140.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="projecj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Sample" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projecj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.projecj" />
+        <item itemvalue="Python.QUESTION" />
+        <item itemvalue="Python.Question140" />
+        <item itemvalue="Python.Day3" />
         <item itemvalue="Python.Day2" />
-        <item itemvalue="Python.slic" />
-        <item itemvalue="Python.slicing" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.day1 (1)" />
       </list>
     </recent_temporary>
   </component>
